@@ -1,0 +1,116 @@
+/* userList.css */
+
+/* Apply the same styles to the entire form */
+form {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container styling */
+form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #dff5e3; /* Matching light green background color */
+}
+
+/* Alert styling */
+.Alert {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #86c995; /* Light green border color */
+    border-radius: 4px;
+    background-color: #dff5e3; /* Matching light green background color */
+    color: #31792e; /* Dark green text color */
+    font-family: 'Arial', sans-serif; /* Use a different font */
+}
+
+/* Text field styling */
+.TextField {
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #86c995;
+    border-radius: 4px;
+}
+
+/* Button styling */
+.Button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #86c995; /* Light green button color */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Arial', sans-serif; /* Use a different font */
+}
+
+/* Topbar styling */
+.topbar-appBar {
+    height: 60px; /* Specify the height with units (e.g., pixels) */
+    justify-content: center;
+    background-color: #86c995; /* Light green topbar background color */
+    color: #fff; /* White text color */
+    font-family: 'Arial', sans-serif; /* Use a different font */
+}
+
+/* userDetails styling */
+.user-details-container {
+    padding: 20px;
+    background-color: #dff5e3; /* Matching light green background color */
+}
+
+.user-details-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #31792e; /* Dark green text color */
+}
+
+.user-details-info {
+    margin-bottom: 15px;
+    color: #31792e; /* Dark green text color */
+}
+
+.user-details-label {
+    font-weight: bold;
+    color: #31792e; /* Dark green text color */
+}
+
+.user-details-link {
+    color: #86c995; /* Light green link color */
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.user-details-link:hover {
+    text-decoration: underline;
+}
+
+/* userList styling */
+.user-list-container {
+    padding: 20px;
+    background-color: #dff5e3; /* Matching light green background color */
+}
+
+.user-list-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #31792e; /* Dark green text color */
+}
+
+.user-list-item {
+    margin-bottom: 10px;
+    color: #31792e; /* Dark green text color */
+}
+
+.user-list-link {
+    color: #86c995; /* Light green link color */
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.user-list-link:hover {
+    text-decoration: underline;
+}
