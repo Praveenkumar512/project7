@@ -2,11 +2,13 @@
 
 <h1>Scrum Team</h1>
 <h2> Product Owner</h2>
-Phani Kiran Reddy D
+Praveen Kumar
 <h2>Scrum Master</h2>
-Neha Galla
+Aasish Varma 
 <h2>Developers</h2>
--  Moulya Madamanchi
--  Saketh Reddy Vallamreddy
--  Sai Sushma Gurram
--  Phiny Francis Govathoti
+-  Thanvi Veeramachineni
+-  Manas Varma P
+-  Sasi Preetham
+-  Harshitha
+-  Rama Aasish Varma Dantuluri
+-  Praveen Kumar 
