@@ -1,4 +1,4 @@
-# SSDI_MAIN_P7
+
 
 <h1>Scrum Team</h1>
 <h2> Product Owner</h2>
